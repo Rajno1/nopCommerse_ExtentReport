@@ -1,0 +1,342 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "cheching the login functionality of login page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3269537155,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user open URL \"https://admin-demo.nopcommerce.com/login\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://admin-demo.nopcommerce.com/login\"",
+                  "offset": 14
+                }
+              ],
+              "location": "LoginSteps.user_open_URL(String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 733590,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Hooks.atend(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 480538527,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enters Email as \"admin@yourstore.com\" and Password as \"admin\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"admin@yourstore.com\"",
+                  "offset": 21
+                },
+                {
+                  "val": "\"admin\"",
+                  "offset": 59
+                }
+              ],
+              "location": "LoginSteps.user_enters_Email_as_and_Password_as(String,String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 1363550,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Hooks.atend(Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8859415945,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "clicks on login button",
+            "match": {
+              "location": "LoginSteps.clicks_on_login_button()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 396801,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Hooks.atend(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 92080132,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "page Title should be \"Dashboard / nopCommerce administration\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Dashboard / nopCommerce administration\"",
+                  "offset": 21
+                }
+              ],
+              "location": "LoginSteps.page_Title_should_be(String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 231322,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Hooks.atend(Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 135993994,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks on customers menu",
+            "match": {
+              "location": "CustomersModuleSteps.user_clicks_on_customers_menu()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 476681,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Hooks.atend(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2046895022,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user clicks on customers menu item",
+            "match": {
+              "location": "CustomersModuleSteps.user_clicks_on_customers_menu_item()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 403867,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Hooks.atend(Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-05-27T13:25:53.232Z",
+        "before": [
+          {
+            "result": {
+              "duration": 3589361473,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.startup()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Add a new customer",
+        "description": "",
+        "id": "checking-the-functionalit-of-customers-module;add-a-new-customer",
+        "after": [
+          {
+            "result": {
+              "duration": 142702802,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.endUp()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2106192692,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user click on Addnew button",
+            "match": {
+              "location": "CustomersModuleSteps.user_click_on_Addnew_button()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 321116,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Hooks.atend(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 15839680,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "page title should be \"Add a new customer / nopCommerce administration\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Add a new customer / nopCommerce administration\"",
+                  "offset": 21
+                }
+              ],
+              "location": "CustomersModuleSteps.page_title_should_be(String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 333451,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Hooks.atend(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2847951547,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Enter the details of customer info",
+            "match": {
+              "location": "CustomersModuleSteps.enter_the_details_of_customer_info()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 540459,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Hooks.atend(Scenario)"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5925835763,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "click on save button",
+            "match": {
+              "location": "CustomersModuleSteps.click_on_save_button()"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 409644,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Hooks.atend(Scenario)"
+                }
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 296941487,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "use should get confirmation message \"The new customer has been added successfully\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"The new customer has been added successfully\"",
+                  "offset": 36
+                }
+              ],
+              "location": "CustomersModuleSteps.use_should_get_confirmation_message(String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "duration": 228382,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "Hooks.atend(Scenario)"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Checking the functionalit of customers module",
+    "description": "",
+    "id": "checking-the-functionalit-of-customers-module",
+    "keyword": "Feature",
+    "uri": "file:com.features/CustomersModule.feature",
+    "tags": []
+  }
+]

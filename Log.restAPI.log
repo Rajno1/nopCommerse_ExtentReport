@@ -1,0 +1,233 @@
+2020-05-10 17:14:39 INFO  nopCommerse:67 - ************ Launching Chrome Browser  ************
+2020-05-10 17:14:41 INFO  nopCommerse:23 - ************ open URL  ************
+2020-05-10 17:14:44 INFO  nopCommerse:30 - ************ Enter Username & password  ************
+2020-05-10 17:14:45 INFO  nopCommerse:38 - ************ clicking on login button  ************
+2020-05-10 17:14:57 INFO  nopCommerse:45 - ************ Validating page Title  ************
+2020-05-10 17:14:58 INFO  nopCommerse:29 - ************ clicking on CustomersMenu **********
+2020-05-10 17:14:58 INFO  nopCommerse:36 - ************ clicking on customer Menu item **********
+2020-05-10 17:15:00 INFO  nopCommerse:43 - ********* clicking on AddNew button *********
+2020-05-10 17:15:02 INFO  nopCommerse:50 - ********* validating AddNew page title *********
+2020-05-10 17:15:02 INFO  nopCommerse:56 - ********** giving email information **********
+2020-05-10 17:15:03 INFO  nopCommerse:58 - ********** giving password details ***********
+2020-05-10 17:15:03 INFO  nopCommerse:60 - ********** giving First_name ***********
+2020-05-10 17:15:03 INFO  nopCommerse:62 - ********** giving Last_name  ***********
+2020-05-10 17:15:03 INFO  nopCommerse:64 - ********** Selecting Gender ***********
+2020-05-10 17:15:03 INFO  nopCommerse:66 - ********** Selection DOB ***********
+2020-05-10 17:15:03 INFO  nopCommerse:68 - ********** Enter companey name ***********
+2020-05-10 17:15:04 INFO  nopCommerse:70 - ********** clicking on isTaxEmpty ***********
+2020-05-10 17:15:04 INFO  nopCommerse:72 - ********** clicking on Newsletter ***********
+2020-05-10 17:15:04 INFO  nopCommerse:75 - **********  Selecting customer role  ***********
+2020-05-10 17:15:04 INFO  nopCommerse:77 - **********  Selecting Vendor  ***********
+2020-05-10 17:15:04 INFO  nopCommerse:79 - **********  Checking Active chbox status  ***********
+2020-05-10 17:15:04 INFO  nopCommerse:81 - **********  Adding Admin comments  ***********
+2020-05-10 17:15:05 INFO  nopCommerse:89 - **********  clilcking on save button  ***********
+2020-05-10 17:15:09 INFO  nopCommerse:98 - **********  validation the confirmation message  ***********
+2020-05-10 17:15:09 INFO  nopCommerse:103 - ************ closing the Browser  ************
+2020-05-10 17:20:18 INFO  nopCommerse:67 - ************ Launching Chrome Browser  ************
+2020-05-10 17:20:21 INFO  nopCommerse:23 - ************ open URL  ************
+2020-05-10 17:20:24 INFO  nopCommerse:30 - ************ Enter Username & password  ************
+2020-05-10 17:20:25 INFO  nopCommerse:38 - ************ clicking on login button  ************
+2020-05-10 17:20:37 INFO  nopCommerse:45 - ************ Validating page Title  ************
+2020-05-10 17:20:37 INFO  nopCommerse:29 - ************ clicking on CustomersMenu **********
+2020-05-10 17:20:37 INFO  nopCommerse:36 - ************ clicking on customer Menu item **********
+2020-05-10 17:20:39 INFO  nopCommerse:43 - ********* clicking on AddNew button *********
+2020-05-10 17:20:41 INFO  nopCommerse:50 - ********* validating AddNew page title *********
+2020-05-10 17:20:41 INFO  nopCommerse:56 - ********** giving email information **********
+2020-05-10 17:20:41 INFO  nopCommerse:58 - ********** giving password details ***********
+2020-05-10 17:20:42 INFO  nopCommerse:60 - ********** giving First_name ***********
+2020-05-10 17:20:42 INFO  nopCommerse:62 - ********** giving Last_name  ***********
+2020-05-10 17:20:42 INFO  nopCommerse:64 - ********** Selecting Gender ***********
+2020-05-10 17:20:42 INFO  nopCommerse:66 - ********** Selection DOB ***********
+2020-05-10 17:20:42 INFO  nopCommerse:68 - ********** Enter companey name ***********
+2020-05-10 17:20:43 INFO  nopCommerse:70 - ********** clicking on isTaxEmpty ***********
+2020-05-10 17:20:43 INFO  nopCommerse:72 - ********** clicking on Newsletter ***********
+2020-05-10 17:20:43 INFO  nopCommerse:75 - **********  Selecting customer role  ***********
+2020-05-10 17:20:43 INFO  nopCommerse:77 - **********  Selecting Vendor  ***********
+2020-05-10 17:20:43 INFO  nopCommerse:79 - **********  Checking Active chbox status  ***********
+2020-05-10 17:20:43 INFO  nopCommerse:81 - **********  Adding Admin comments  ***********
+2020-05-10 17:20:44 INFO  nopCommerse:89 - **********  clilcking on save button  ***********
+2020-05-10 17:20:49 INFO  nopCommerse:98 - **********  validation the confirmation message  ***********
+2020-05-10 17:20:50 INFO  nopCommerse:103 - ************ closing the Browser  ************
+2020-05-11 07:08:42 INFO  nopCommerse:67 - ************ Launching Chrome Browser  ************
+2020-05-11 07:08:50 INFO  nopCommerse:23 - ************ open URL  ************
+2020-05-11 07:08:54 INFO  nopCommerse:30 - ************ Enter Username & password  ************
+2020-05-11 07:08:55 INFO  nopCommerse:38 - ************ clicking on login button  ************
+2020-05-11 07:09:03 INFO  nopCommerse:45 - ************ Validating page Title  ************
+2020-05-11 07:09:04 INFO  nopCommerse:29 - ************ clicking on CustomersMenu **********
+2020-05-11 07:09:04 INFO  nopCommerse:36 - ************ clicking on customer Menu item **********
+2020-05-11 07:09:07 INFO  nopCommerse:43 - ********* clicking on AddNew button *********
+2020-05-11 07:09:10 INFO  nopCommerse:50 - ********* validating AddNew page title *********
+2020-05-11 07:09:10 INFO  nopCommerse:56 - ********** giving email information **********
+2020-05-11 07:09:10 INFO  nopCommerse:58 - ********** giving password details ***********
+2020-05-11 07:09:10 INFO  nopCommerse:60 - ********** giving First_name ***********
+2020-05-11 07:09:11 INFO  nopCommerse:62 - ********** giving Last_name  ***********
+2020-05-11 07:09:11 INFO  nopCommerse:64 - ********** Selecting Gender ***********
+2020-05-11 07:09:11 INFO  nopCommerse:66 - ********** Selection DOB ***********
+2020-05-11 07:09:11 INFO  nopCommerse:68 - ********** Enter companey name ***********
+2020-05-11 07:09:11 INFO  nopCommerse:70 - ********** clicking on isTaxEmpty ***********
+2020-05-11 07:09:11 INFO  nopCommerse:72 - ********** clicking on Newsletter ***********
+2020-05-11 07:09:12 INFO  nopCommerse:75 - **********  Selecting customer role  ***********
+2020-05-11 07:09:12 INFO  nopCommerse:77 - **********  Selecting Vendor  ***********
+2020-05-11 07:09:12 INFO  nopCommerse:79 - **********  Checking Active chbox status  ***********
+2020-05-11 07:09:12 INFO  nopCommerse:81 - **********  Adding Admin comments  ***********
+2020-05-11 07:09:12 INFO  nopCommerse:89 - **********  clilcking on save button  ***********
+2020-05-11 07:09:18 INFO  nopCommerse:98 - **********  validation the confirmation message  ***********
+2020-05-11 07:09:19 INFO  nopCommerse:103 - ************ closing the Browser  ************
+2020-05-11 07:12:08 INFO  nopCommerse:67 - ************ Launching Chrome Browser  ************
+2020-05-11 07:12:10 INFO  nopCommerse:23 - ************ open URL  ************
+2020-05-11 07:12:13 INFO  nopCommerse:30 - ************ Enter Username & password  ************
+2020-05-11 07:12:14 INFO  nopCommerse:38 - ************ clicking on login button  ************
+2020-05-11 07:12:23 INFO  nopCommerse:45 - ************ Validating page Title  ************
+2020-05-11 07:12:23 INFO  nopCommerse:29 - ************ clicking on CustomersMenu **********
+2020-05-11 07:12:23 INFO  nopCommerse:36 - ************ clicking on customer Menu item **********
+2020-05-11 07:12:26 INFO  nopCommerse:43 - ********* clicking on AddNew button *********
+2020-05-11 07:12:28 INFO  nopCommerse:50 - ********* validating AddNew page title *********
+2020-05-11 07:12:28 INFO  nopCommerse:56 - ********** giving email information **********
+2020-05-11 07:12:28 INFO  nopCommerse:58 - ********** giving password details ***********
+2020-05-11 07:12:28 INFO  nopCommerse:60 - ********** giving First_name ***********
+2020-05-11 07:12:28 INFO  nopCommerse:62 - ********** giving Last_name  ***********
+2020-05-11 07:12:29 INFO  nopCommerse:64 - ********** Selecting Gender ***********
+2020-05-11 07:12:29 INFO  nopCommerse:66 - ********** Selection DOB ***********
+2020-05-11 07:12:29 INFO  nopCommerse:68 - ********** Enter companey name ***********
+2020-05-11 07:12:29 INFO  nopCommerse:70 - ********** clicking on isTaxEmpty ***********
+2020-05-11 07:12:29 INFO  nopCommerse:72 - ********** clicking on Newsletter ***********
+2020-05-11 07:12:30 INFO  nopCommerse:75 - **********  Selecting customer role  ***********
+2020-05-11 07:12:30 INFO  nopCommerse:77 - **********  Selecting Vendor  ***********
+2020-05-11 07:12:30 INFO  nopCommerse:79 - **********  Checking Active chbox status  ***********
+2020-05-11 07:12:30 INFO  nopCommerse:81 - **********  Adding Admin comments  ***********
+2020-05-11 07:12:30 INFO  nopCommerse:89 - **********  clilcking on save button  ***********
+2020-05-11 07:12:36 INFO  nopCommerse:98 - **********  validation the confirmation message  ***********
+2020-05-11 07:12:37 INFO  nopCommerse:103 - ************ closing the Browser  ************
+2020-05-14 11:58:40 INFO  nopCommerse:67 - ************ Launching Chrome Browser  ************
+2020-05-14 11:59:50 INFO  nopCommerse:78 - ************ Launching Safari Browser  ************
+2020-05-14 11:59:54 INFO  nopCommerse:23 - ************ open URL  ************
+2020-05-14 12:00:00 INFO  nopCommerse:30 - ************ Enter Username & password  ************
+2020-05-14 12:00:01 INFO  nopCommerse:38 - ************ clicking on login button  ************
+2020-05-14 12:00:17 INFO  nopCommerse:45 - ************ Validating page Title  ************
+2020-05-14 12:00:17 INFO  nopCommerse:29 - ************ clicking on CustomersMenu **********
+2020-05-14 12:00:18 INFO  nopCommerse:36 - ************ clicking on customer Menu item **********
+2020-05-14 12:00:28 INFO  nopCommerse:43 - ********* clicking on AddNew button *********
+2020-05-14 12:00:30 INFO  nopCommerse:50 - ********* validating AddNew page title *********
+2020-05-14 12:00:30 INFO  nopCommerse:56 - ********** giving email information **********
+2020-05-14 12:00:31 INFO  nopCommerse:58 - ********** giving password details ***********
+2020-05-14 12:00:31 INFO  nopCommerse:60 - ********** giving First_name ***********
+2020-05-14 12:00:31 INFO  nopCommerse:62 - ********** giving Last_name  ***********
+2020-05-14 12:00:32 INFO  nopCommerse:64 - ********** Selecting Gender ***********
+2020-05-14 12:00:32 INFO  nopCommerse:66 - ********** Selection DOB ***********
+2020-05-14 12:00:32 INFO  nopCommerse:68 - ********** Enter companey name ***********
+2020-05-14 12:00:33 INFO  nopCommerse:70 - ********** clicking on isTaxEmpty ***********
+2020-05-14 12:00:33 INFO  nopCommerse:72 - ********** clicking on Newsletter ***********
+2020-05-14 12:00:33 INFO  nopCommerse:75 - **********  Selecting customer role  ***********
+2020-05-14 12:00:34 INFO  nopCommerse:77 - **********  Selecting Vendor  ***********
+2020-05-14 12:00:34 INFO  nopCommerse:79 - **********  Checking Active chbox status  ***********
+2020-05-14 12:00:34 INFO  nopCommerse:81 - **********  Adding Admin comments  ***********
+2020-05-14 12:00:35 INFO  nopCommerse:89 - **********  clilcking on save button  ***********
+2020-05-14 12:00:39 INFO  nopCommerse:98 - **********  validation the confirmation message  ***********
+2020-05-14 12:00:39 INFO  nopCommerse:103 - ************ closing the Browser  ************
+2020-05-19 05:39:02 INFO  nopCommerse:78 - ************ Launching Safari Browser  ************
+2020-05-19 05:39:21 INFO  nopCommerse:23 - ************ open URL  ************
+2020-05-19 05:39:25 INFO  nopCommerse:30 - ************ Enter Username & password  ************
+2020-05-19 05:39:26 INFO  nopCommerse:38 - ************ clicking on login button  ************
+2020-05-19 05:39:26 INFO  nopCommerse:45 - ************ Validating page Title  ************
+2020-05-19 05:39:26 INFO  nopCommerse:103 - ************ closing the Browser  ************
+2020-05-19 05:43:59 INFO  nopCommerse:78 - ************ Launching Safari Browser  ************
+2020-05-19 05:44:08 INFO  nopCommerse:23 - ************ open URL  ************
+2020-05-19 05:44:11 INFO  nopCommerse:30 - ************ Enter Username & password  ************
+2020-05-19 05:44:11 INFO  nopCommerse:38 - ************ clicking on login button  ************
+2020-05-19 05:44:11 INFO  nopCommerse:45 - ************ Validating page Title  ************
+2020-05-19 05:44:11 INFO  nopCommerse:103 - ************ closing the Browser  ************
+2020-05-19 06:18:42 INFO  nopCommerse:78 - ************ Launching Safari Browser  ************
+2020-05-19 06:18:46 INFO  nopCommerse:23 - ************ open URL  ************
+2020-05-19 06:18:49 INFO  nopCommerse:30 - ************ Enter Username & password  ************
+2020-05-19 06:18:49 INFO  nopCommerse:38 - ************ clicking on login button  ************
+2020-05-19 06:18:49 INFO  nopCommerse:45 - ************ Validating page Title  ************
+2020-05-19 06:18:50 INFO  nopCommerse:103 - ************ closing the Browser  ************
+2020-05-19 06:19:42 INFO  nopCommerse:78 - ************ Launching Safari Browser  ************
+2020-05-19 06:19:50 INFO  nopCommerse:23 - ************ open URL  ************
+2020-05-19 06:19:53 INFO  nopCommerse:30 - ************ Enter Username & password  ************
+2020-05-19 06:19:53 INFO  nopCommerse:38 - ************ clicking on login button  ************
+2020-05-19 06:19:56 INFO  nopCommerse:45 - ************ Validating page Title  ************
+2020-05-19 06:19:56 INFO  nopCommerse:103 - ************ closing the Browser  ************
+2020-05-19 06:22:15 INFO  nopCommerse:67 - ************ Launching Chrome Browser  ************
+2020-05-19 06:22:37 INFO  nopCommerse:103 - ************ closing the Browser  ************
+2020-05-19 06:23:12 INFO  nopCommerse:67 - ************ Launching Chrome Browser  ************
+2020-05-19 06:23:18 INFO  nopCommerse:23 - ************ open URL  ************
+2020-05-19 06:23:20 INFO  nopCommerse:30 - ************ Enter Username & password  ************
+2020-05-19 06:23:21 INFO  nopCommerse:38 - ************ clicking on login button  ************
+2020-05-19 06:23:29 INFO  nopCommerse:45 - ************ Validating page Title  ************
+2020-05-19 06:23:29 INFO  nopCommerse:29 - ************ clicking on CustomersMenu **********
+2020-05-19 06:23:29 INFO  nopCommerse:36 - ************ clicking on customer Menu item **********
+2020-05-19 06:23:32 INFO  nopCommerse:43 - ********* clicking on AddNew button *********
+2020-05-19 06:23:35 INFO  nopCommerse:50 - ********* validating AddNew page title *********
+2020-05-19 06:23:35 INFO  nopCommerse:56 - ********** giving email information **********
+2020-05-19 06:23:35 INFO  nopCommerse:58 - ********** giving password details ***********
+2020-05-19 06:23:35 INFO  nopCommerse:60 - ********** giving First_name ***********
+2020-05-19 06:23:36 INFO  nopCommerse:62 - ********** giving Last_name  ***********
+2020-05-19 06:23:36 INFO  nopCommerse:64 - ********** Selecting Gender ***********
+2020-05-19 06:23:36 INFO  nopCommerse:66 - ********** Selection DOB ***********
+2020-05-19 06:23:36 INFO  nopCommerse:68 - ********** Enter companey name ***********
+2020-05-19 06:23:36 INFO  nopCommerse:70 - ********** clicking on isTaxEmpty ***********
+2020-05-19 06:23:36 INFO  nopCommerse:72 - ********** clicking on Newsletter ***********
+2020-05-19 06:24:07 INFO  nopCommerse:103 - ************ closing the Browser  ************
+2020-05-19 06:27:24 INFO  nopCommerse:67 - ************ Launching Chrome Browser  ************
+2020-05-19 06:27:26 INFO  nopCommerse:23 - ************ open URL  ************
+2020-05-19 06:27:29 INFO  nopCommerse:30 - ************ Enter Username & password  ************
+2020-05-19 06:27:30 INFO  nopCommerse:38 - ************ clicking on login button  ************
+2020-05-19 06:27:38 INFO  nopCommerse:45 - ************ Validating page Title  ************
+2020-05-19 06:27:38 INFO  nopCommerse:29 - ************ clicking on CustomersMenu **********
+2020-05-19 06:27:38 INFO  nopCommerse:36 - ************ clicking on customer Menu item **********
+2020-05-19 06:27:40 INFO  nopCommerse:43 - ********* clicking on AddNew button *********
+2020-05-19 06:27:43 INFO  nopCommerse:50 - ********* validating AddNew page title *********
+2020-05-19 06:27:43 INFO  nopCommerse:56 - ********** giving email information **********
+2020-05-19 06:27:43 INFO  nopCommerse:58 - ********** giving password details ***********
+2020-05-19 06:27:43 INFO  nopCommerse:60 - ********** giving First_name ***********
+2020-05-19 06:27:43 INFO  nopCommerse:62 - ********** giving Last_name  ***********
+2020-05-19 06:27:44 INFO  nopCommerse:64 - ********** Selecting Gender ***********
+2020-05-19 06:27:44 INFO  nopCommerse:66 - ********** Selection DOB ***********
+2020-05-19 06:27:44 INFO  nopCommerse:68 - ********** Enter companey name ***********
+2020-05-19 06:27:44 INFO  nopCommerse:70 - ********** clicking on isTaxEmpty ***********
+2020-05-19 06:27:44 INFO  nopCommerse:72 - ********** clicking on Newsletter ***********
+2020-05-22 19:37:02 INFO  nopCommerse:67 - ************ Launching Chrome Browser  ************
+2020-05-22 19:37:08 INFO  nopCommerse:23 - ************ open URL  ************
+2020-05-22 19:37:11 INFO  nopCommerse:30 - ************ Enter Username & password  ************
+2020-05-22 19:37:12 INFO  nopCommerse:38 - ************ clicking on login button  ************
+2020-05-22 19:37:26 INFO  nopCommerse:45 - ************ Validating page Title  ************
+2020-05-22 19:37:27 INFO  nopCommerse:29 - ************ clicking on CustomersMenu **********
+2020-05-22 19:37:27 INFO  nopCommerse:36 - ************ clicking on customer Menu item **********
+2020-05-22 19:37:30 INFO  nopCommerse:43 - ********* clicking on AddNew button *********
+2020-05-22 19:37:32 INFO  nopCommerse:50 - ********* validating AddNew page title *********
+2020-05-22 19:37:32 INFO  nopCommerse:56 - ********** giving email information **********
+2020-05-22 19:37:32 INFO  nopCommerse:58 - ********** giving password details ***********
+2020-05-22 19:37:33 INFO  nopCommerse:60 - ********** giving First_name ***********
+2020-05-22 19:37:33 INFO  nopCommerse:62 - ********** giving Last_name  ***********
+2020-05-22 19:37:33 INFO  nopCommerse:64 - ********** Selecting Gender ***********
+2020-05-22 19:37:33 INFO  nopCommerse:66 - ********** Selection DOB ***********
+2020-05-22 19:37:33 INFO  nopCommerse:68 - ********** Enter companey name ***********
+2020-05-22 19:37:33 INFO  nopCommerse:70 - ********** clicking on isTaxEmpty ***********
+2020-05-22 19:37:34 INFO  nopCommerse:72 - ********** clicking on Newsletter ***********
+2020-05-22 19:38:04 INFO  nopCommerse:103 - ************ closing the Browser  ************
+2020-05-27 18:55:53 INFO  nopCommerse:67 - ************ Launching Chrome Browser  ************
+2020-05-27 18:55:57 INFO  nopCommerse:23 - ************ open URL  ************
+2020-05-27 18:56:00 INFO  nopCommerse:30 - ************ Enter Username & password  ************
+2020-05-27 18:56:00 INFO  nopCommerse:38 - ************ clicking on login button  ************
+2020-05-27 18:56:09 INFO  nopCommerse:45 - ************ Validating page Title  ************
+2020-05-27 18:56:09 INFO  nopCommerse:29 - ************ clicking on CustomersMenu **********
+2020-05-27 18:56:09 INFO  nopCommerse:36 - ************ clicking on customer Menu item **********
+2020-05-27 18:56:11 INFO  nopCommerse:43 - ********* clicking on AddNew button *********
+2020-05-27 18:56:13 INFO  nopCommerse:50 - ********* validating AddNew page title *********
+2020-05-27 18:56:13 INFO  nopCommerse:56 - ********** giving email information **********
+2020-05-27 18:56:14 INFO  nopCommerse:58 - ********** giving password details ***********
+2020-05-27 18:56:14 INFO  nopCommerse:60 - ********** giving First_name ***********
+2020-05-27 18:56:14 INFO  nopCommerse:62 - ********** giving Last_name  ***********
+2020-05-27 18:56:14 INFO  nopCommerse:64 - ********** Selecting Gender ***********
+2020-05-27 18:56:14 INFO  nopCommerse:66 - ********** Selection DOB ***********
+2020-05-27 18:56:15 INFO  nopCommerse:68 - ********** Enter companey name ***********
+2020-05-27 18:56:15 INFO  nopCommerse:70 - ********** clicking on isTaxEmpty ***********
+2020-05-27 18:56:15 INFO  nopCommerse:72 - ********** clicking on Newsletter ***********
+2020-05-27 18:56:15 INFO  nopCommerse:75 - **********  Selecting customer role  ***********
+2020-05-27 18:56:16 INFO  nopCommerse:77 - **********  Selecting Vendor  ***********
+2020-05-27 18:56:16 INFO  nopCommerse:79 - **********  Checking Active chbox status  ***********
+2020-05-27 18:56:16 INFO  nopCommerse:81 - **********  Adding Admin comments  ***********
+2020-05-27 18:56:16 INFO  nopCommerse:89 - **********  clilcking on save button  ***********
+2020-05-27 18:56:22 INFO  nopCommerse:98 - **********  validation the confirmation message  ***********
+2020-05-27 18:56:22 INFO  nopCommerse:103 - ************ closing the Browser  ************
